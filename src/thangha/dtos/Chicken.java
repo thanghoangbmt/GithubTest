@@ -9,7 +9,7 @@ public class Chicken extends Animal {
 
 	@Override
 	public void speak() {
-		
+		System.out.println("o` o' o");
 	}
 
 }
